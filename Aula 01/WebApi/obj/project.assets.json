@@ -959,11 +959,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael Villa\\OneDrive\\PROFISSIONAL\\Cursos\\Engenharia De Software - Universidade Positivo\\5 - SEMESTRE\\Desenvolvimento Web Avançado\\Aula 01\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael Villa\\OneDrive\\PROFISSIONAL\\Cursos\\Engenharia De Software - Universidade Positivo\\5 - SEMESTRE\\Desenvolvimento Web Avançado\\Desenvolvimento-Web-Avancado\\Aula 01\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Rafael Villa\\OneDrive\\PROFISSIONAL\\Cursos\\Engenharia De Software - Universidade Positivo\\5 - SEMESTRE\\Desenvolvimento Web Avançado\\Aula 01\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\Rafael Villa\\OneDrive\\PROFISSIONAL\\Cursos\\Engenharia De Software - Universidade Positivo\\5 - SEMESTRE\\Desenvolvimento Web Avançado\\Desenvolvimento-Web-Avancado\\Aula 01\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Rafael Villa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael Villa\\OneDrive\\PROFISSIONAL\\Cursos\\Engenharia De Software - Universidade Positivo\\5 - SEMESTRE\\Desenvolvimento Web Avançado\\Aula 01\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Rafael Villa\\OneDrive\\PROFISSIONAL\\Cursos\\Engenharia De Software - Universidade Positivo\\5 - SEMESTRE\\Desenvolvimento Web Avançado\\Desenvolvimento-Web-Avancado\\Aula 01\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael Villa\\AppData\\Roaming\\NuGet\\NuGet.Config"
