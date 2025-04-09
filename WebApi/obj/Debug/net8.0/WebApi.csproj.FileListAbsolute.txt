@@ -41,3 +41,46 @@ C:\DEV-WEB-AVANCADO\Aula 01\Desenvolvimento-Web-Avancado\WebApi\obj\Debug\net8.0
 C:\DEV-WEB-AVANCADO\Aula 01\Desenvolvimento-Web-Avancado\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\DEV-WEB-AVANCADO\Aula 01\Desenvolvimento-Web-Avancado\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\DEV-WEB-AVANCADO\Aula 01\Desenvolvimento-Web-Avancado\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\Rafael Villa\OneDrive\PROFISSIONAL\Cursos\Engenharia De Software - Universidade Positivo\5 - SEMESTRE\Desenvolvimento Web Avançado\WebApi\obj\Debug\net8.0\ref\WebApi.dll
