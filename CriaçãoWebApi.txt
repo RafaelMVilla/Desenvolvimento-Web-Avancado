@@ -1,0 +1,65 @@
+1 - Criar Web Api com Controller:
+dotnet new webapi --use-controllers -n NomeProjeto
+
+-------------------------------------------------------
+2 - Apagar os arquivos que não será usado:
+
+Exemplo: WeatherForecast
+
+-------------------------------------------------------
+3 - Instalar o EntityFrameWorkCore:
+
+dotnet add package Microsoft.EntityFrameWorkCore --version 7.0.7
+
+-------------------------------------------------------
+4 - Instalar o EntityFrameWorkCoreTools:
+
+dotnet add package Microsoft.EntityFrameWorkCore.Tools --version 7.0.7
+
+-------------------------------------------------------
+5 - Instalar o Banco de Dados MySQL:
+
+dotnet add package Pomelo.EntityFrameWorkCore.MySQL --version 7.0.0
+
+------------------------------------------------------
+
+6 - Configurar o Banco de Dados
+
+Mexer no appsetings.json:
+   
+ "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "AppDbConnectionString": "Server=localhost; Database=WebApiDB; User=root; Password=12345678$;"
+  }
+
+                        
+---------------------
+Senha MySqlWorkbench
+
+Usuário: root
+Senha: 12345678$
+--------------------
+
+Mexer no Program.cs:
+
+var connectionString = builder.Configuration.GetConnectionString("AppDbConnectionString");
+
+builder.Services.AddDbContext<AppDbContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+-----------------------------------------------------
+
+7 - Fazer a migração do Banco
+
+dotnet ef migrations add Inicial
+
+----------------------------------------------------
+
+8 - Fazer a atualização do banco (update)
+
+dotnet ef database update
+
+
+
+----------------------------------------------------
+
+

@@ -1,0 +1,22 @@
+*QUANDO VOCê*
+
+
+Criar nova branch:
+
+git branch NOME
+
+----------------------------
+
+Sair da branch atual e entrar na branch desejada:
+
+git checkout NOMEDABRANCH
+
+----------------------------
+
+Sair da branch, criar e entrar em uma nova branch:
+
+git checkout -b NOME
+
+----------------------------
+
+
